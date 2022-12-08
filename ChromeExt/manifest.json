@@ -1,0 +1,11 @@
+{
+    "name":"Covid Data",
+    "version":"1.0.0",
+    "description":"Covid data",
+    "manifest_version":3,
+    "author": "Suchita",
+    "action":{
+        "default_popup": "chromeExt.html",
+        "default_title": "Latest twitter Report"
+    }
+}
